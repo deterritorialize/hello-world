@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This is the repository I made following the "Hello World" GitHub guide.
